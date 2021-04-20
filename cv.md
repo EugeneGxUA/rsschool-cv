@@ -42,6 +42,7 @@
 ## Expirience :
 ### D2 digital Feb 2018 — Feb 2020
 ### Android Developer
+
 ### Android projects :
 1. "Укрпошта"(Ukraine post service) application
 2. "WOG PRIDE" mobile application
@@ -55,6 +56,7 @@
 5. Olidetrim
 
 ### Bank VOSTOK Feb 2020 — Present
+
 1. Card product application
 
 ## Languages :
